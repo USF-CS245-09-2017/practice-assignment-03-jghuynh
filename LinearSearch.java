@@ -1,3 +1,7 @@
+/**
+ * Linearly searches for an assigned target value to a given array.
+ * Considered the slowest search
+ */
 public class LinearSearch implements Practice03Search {
 
     /**

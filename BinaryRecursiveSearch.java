@@ -1,3 +1,6 @@
+/**
+ * Binary-recursively searches for a target value in the given array
+ */
 public class BinaryRecursiveSearch implements Practice03Search {
 
     /**

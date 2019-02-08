@@ -1,3 +1,6 @@
+/**
+ * Binary-iteratively searches for a target value in a given array
+ */
 public class BinaryIterativeSearch implements Practice03Search {
 
     /**
